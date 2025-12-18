@@ -1,0 +1,8 @@
+{
+  "name": "Felipe Code",
+  "description": "A powerful AI-driven coding assistant that connects to your Android Termux environment safely.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
